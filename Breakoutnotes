@@ -1,0 +1,320 @@
+Teaching lawyers to be hackers
+    Basic as possible
+        CS undergrads
+        now Social science / humanities
+            never written a line of code
+        Justifications for teaching code
+    Now
+        Teach them a little language
+        how to communicate with technologists
+    E.g.
+        2 law students with Suffolk Law School
+            no programming experience
+            trained them to do the things needed done
+        Public project
+            not that interesting
+                jquery mobile static website
+                up on GitHub
+        idiosyncratic case management systems
+            hardly documented
+            tech people don't understand
+                'need a list of all individuals who are a client or a codefendant'
+            current staff
+                don't make connections to the real world
+                stuck on the fact that there was a table
+                    participants
+                    had a role column
+                clients were in a different table
+            get intern students
+                to understand enough
+                    doing SQL queries
+                    reverse engineer databases
+                        figure out what info is actually accessible
+                by end of semester
+                    able to do the SQL queries
+            getting credit through the law school
+                self-selecting
+            did they have to justify what doing as worthwhile legal pedagogy?
+                looking on it as pro bono owkr
+                working with the public defender
+    issue
+        if it looks like pure tech
+            how do we justify it as a worthwhile experience?
+            c.f. writing workshop
+            legal code writing
+        framing
+            attorneys are info workers
+                giving attorneys the tools
+    tutorials
+    Projects
+        2 hr classes
+        1
+            Download
+                toolkit
+                    text editors
+                    Apache
+                    PHP
+                    MySQL
+                    for their laptops
+                XAMP
+                    puts everything together
+                    makes server side work easy
+                in class
+                troubleshoot install
+                wrote some Hello Worlds
+                    to make sure it works
+        2
+            Project
+                QnA
+                pretrial advised of 5th amendment right
+                document with a flow chart at the end
+                    references different pages in the doc
+                Use QnA to run flow charts and link to things
+                turned the doc into HTML
+                    just enough HTML
+                    send to W3C
+                        anchor tags
+                            paragraphs
+                            headings
+                    name tags that they could link to
+        3
+            Regular expressions
+            Use law students to make things useful for community
+                Logic contained into rule that can be extracted into a QnA
+                catalogue that could then be published
+        4
+            jQuery Mobile
+                javascript library
+                produces nice mobile frameworks for HTML
+                spent most time doing this
+                shadowed people in different practice areas
+                    knowing what was important to have on hand in court
+                what do you need (in different divisions)
+                dealing with existing code base
+                    many broken links
+                    "go fix the broken links"
+                        section of links all broken
+                            MA Court webpage had changed how they did things
+                            hundreds of broken links
+                        they were all broken in the same way
+                            used a regular expression to fix them all!
+        5
+            GitHub
+                collaborate on adding their changes
+                    nice GUI download interfaces
+                when they cloned a repo
+                    put the folder on their XAMP server
+                        to see a local instance
+                        make the changes
+                        push them
+                            so the collaborator could see it
+                publish all projects as Github pages
+                    free hosting
+                MA-Defenders
+        Time 
+            Did much by themselves
+            Set them up
+            Find tutorials really liked
+                Regex
+                    Zvenyach
+                    showed them some examples
+                jQuery Mobile
+                    Here's a page that works
+                        change the text
+                HTML
+                    W3C
+                MySQL
+                    3 lesson intro
+                        with projects
+                    XAMP
+                        has MyPHP GUI interface to MySQL
+                    did SQL projects - worked with their own projects
+    Judson
+        Why teach law students how to code?
+            People who are encouraging people about it don't understand it
+            intellectual basis
+                Teaching students computational reasoning
+                look at legal and social problems in computational forms
+                take out into their careers as lawyers
+                    don't know what they're going to do
+            context of a 'learn to code' class
+        Day 1
+            Adam Editor
+            Most work in
+                jsbin
+                    HTML
+                    js
+                    get immediate output
+                        easy to share with Judson the work they'd done
+        Wrote up a syllabus
+            We hope to get to this
+                posted on a regular basis to their website
+            16 weeks
+            loyolalawtech.org
+                assignments each week
+        1st 2 classes 
+            HTML
+            CSS
+            basic javascript
+            o
+                Cannot lecture about code
+                Cannot do Socratic
+                If not typing, not learning anything
+                Everyone brings a computer
+                    Task for the day
+            ChromeCast
+                Puts it up on the screen
+        Big goal
+            have a sample app
+                using HTML
+                    CSS
+                    javascript
+                that will all work client side
+        Gavel
+            learn how to submit data to the API
+            and get data back
+            creating frontends to deal with APIs somewhere
+            e.g.
+                pull out all cases dealing with Miranda
+        picked up javascript logic
+        basic idea
+            of CSS
+            of Bootstrap
+        Solid HTML
+        Digital Ocean
+            $5 a month
+            learn how to install wordpress
+            basic set up of their site
+                immediate feedback
+            before go into learning HTML / CSS and all that
+    What are the things that need to be on the syllabus
+        What is the minimum necessary to do the computational reasoning?
+            problems can be solved computationally
+        Want them to have conversations
+            MySQL important
+                dealing with case management system
+                databases
+                    when people think tech
+                        that's how they're thinking
+        Learning how to learn
+            Google it
+            know what they're looking up
+            tech being used today
+                is not going to be used in 2 years
+        How do we ask the question?
+        coding literacy
+            coolness notion of having a GitHub account
+                able to ask good questions
+                able to understand what's going on
+            Development Literacy
+        till they can segway into meaningful partnerships with existing groups
+            get well socialized
+    The world is changing
+        power and influence are going to people who know how to make computers do things
+            lawyers are all about controlling and minpulating power and the nature of that
+            to be a better lawyer
+                need to udnerstand how machines work
+            machinery of society is becoming increasingly machine bound
+        more so in 5 years
+        We want to give our new attorneys
+            Good structures for managing ideas
+            not irrelevant to lawyering
+            tools for CS
+                tools for managing information
+        many people writing important code
+            are self-taught
+                GOOGLE
+                Stack Overflow
+    Breadth or Depth
+        All classes giving you a taste
+            not about mastery
+        Exposure, ideas
+            take what you're exposed them to and run with it
+    Alternative approach
+        take a very structured programming language
+            work through it
+            deep ideas
+                that will translate
+                    and have persistence as systems involved
+            problem
+                lack of satisfaction
+        element to these classes
+            have to be 'fun'
+                need an outcome
+            Prefer
+                project based
+    What if
+        requirement for admission to law school
+            had to already know development
+            unique differentiator
+                ultra premium legal education
+    Career Paths
+        What they will be called to do
+        Functional capability set
+            being on teams of people
+                B
+                L
+                T
+            where they have to blend together
+                Most PMs are faking it
+        people who can communicate well
+            charge much more if you bring B, L, T together
+            meeting business goals
+                understanding technical constraints
+    Understand
+        how it works in reality
+        or connecting people to do it
+        skills that you can transfer
+            produce a way of thinking
+    Development lifecycles
+        Agile?
+        Whatever can make it go...
+        Difference between waterfall and agile
+            having users communicate with developers
+            how that is usually not very good
+                make it expliclty part of development literacy
+        How do you do a Scrum
+            Project goal
+        e.g. Client Counselling
+            elicit the right facts
+            communicating
+            confirming what said
+                facilitate
+    When debrief interns
+        Great if could start in Fall and do over the course of the year
+    Mixed group...
+        glad didn't get engineering students
+            had to learn how to do it
+            knew that they would have divided and conquered
+    After the course
+        e.g. meet our CfA brigade
+            participate in a hackathon as a true participant
+        teach them to be the self-taught coder
+            jump in hit the ground running
+        relationship building
+            becoming GC at the next great startup
+            Clients!
+            or help firm acquire tech
+    LegalHackers
+        develop a curricula
+            that can be used at law schools
+            modular
+        e.g.
+            add a little more to the US Citation statutes
+            something that contributes to the community
+                resume bullets
+            need to know regular expressions!
+        host your examples
+            lab session that's crowdsourced
+            Not just learning QnAMarkup
+                contributing to a open-source project
+    Outcomes
+        Commit to sharing syllabi
+        Put together a set of hackable projects
+            what could you do in 2 weeks
+        Commit to some  location
+            where all share what working on
+                in a way to allow cross-use of materials
+        Make it a GitHub organization
+            Projects
+                synonymous with Labs
