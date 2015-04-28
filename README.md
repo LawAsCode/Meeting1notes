@@ -8,8 +8,25 @@ sponsored Kaufmann Foundation and UMKC Law School.
 
 ## Project Name
 
+    LawAsCode
 ## Goal for the Project
 
+````
+Fundamental Principal #1:  
+
+In their role of ensuring that the lawyers of tomorrow have the core competencies to provide effective 
+and efficient legal services, law schools have the responsibility to provide all students with education 
+and training to enable them to understand the risks and benefits associated with current and developing 
+technologies and the ability to use those technologies appropriately.
+```
+```
+Fundamental Principal #1:  
+
+In their role of ensuring that the lawyers of tomorrow have the core competencies to provide effective 
+and efficient legal services, law schools have the responsibility to provide all students with education 
+and training to enable them to understand the risks and benefits associated with current and developing 
+technologies and the ability to use those technologies appropriately.
+````
 ## Which of the Principles Applies to the Project?
 
 ## Outcome(s)
